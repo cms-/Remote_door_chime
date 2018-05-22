@@ -1,7 +1,7 @@
 # Remote_door_chime
 A remote chime rings when the door opens by means of a wireless transmission (2016-07)
 
-This is the beginning of the story of how experiments with a simple wireless transmitter and receiver pair gave rise to a series of revisions that solved problems encountered along the way,
+This is the beginning of the story of how experiments with a simple wireless transmitter and receiver pair gave rise to a series of revisions that solved problems encountered along the way, ultimately giving birth to the nrf_node project.
 
 #### The problem
 A concern for the saftey of an eldery family member created a need for knowing when the door to the outside was open.
